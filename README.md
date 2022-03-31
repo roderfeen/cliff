@@ -1,2 +1,2 @@
 # cliff
-Repository for the CLIFF project thesis
+Repository for the CLIFF project
